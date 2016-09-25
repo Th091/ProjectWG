@@ -10,8 +10,18 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="endpoint-libs/libalimentendpoint-v1/alimentendpoint/alimentendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libalimentgroupendpoint-v1/alimentgroupendpoint/alimentgroupendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libbillendpoint-v1/billendpoint/billendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libbuyingendpoint-v1/buyingendpoint/buyingendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libcommuneendpoint-v1/communeendpoint/communeendpoint-v1-generated-source"/>
 	<classpathentry kind="src" path="endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/deviceinfoendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libmanagerendpoint-v1/managerendpoint/managerendpoint-v1-generated-source"/>
 	<classpathentry kind="src" path="endpoint-libs/libmessageEndpoint-v1/messageEndpoint/messageendpoint-v1-generated-source"/>
 	<classpathentry kind="src" path="endpoint-libs/libnoteendpoint-v1/noteendpoint/noteendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libplannedeventendpoint-v1/plannedeventendpoint/plannedeventendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libresidentendpoint-v1/residentendpoint/residentendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libtaskendpoint-v1/taskendpoint/taskendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libuserendpoint-v1/userendpoint/userendpoint-v1-generated-source"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

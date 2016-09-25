@@ -1,13 +1,13 @@
 {
   "files": [
     {
-      "downloadUrl": "/downloads/deviceinfoendpoint/v1/20160924131627/java/1.21.0/wgappbackend.com-deviceinfoendpoint-v1-20160924131627-java-1.21.0-sources.jar", 
-      "path": "wgappbackend.com-deviceinfoendpoint-v1-20160924131627-java-1.21.0-sources.jar", 
+      "downloadUrl": "/downloads/deviceinfoendpoint/v1/20160925172623/java/1.21.0/wgappbackend.com-deviceinfoendpoint-v1-20160925172623-java-1.21.0-sources.jar", 
+      "path": "wgappbackend.com-deviceinfoendpoint-v1-20160925172623-java-1.21.0-sources.jar", 
       "type": "source", 
-      "timestamp": "2016-09-24 13:16"
+      "timestamp": "2016-09-25 17:26"
     }, 
     {
-      "path": "wgappbackend.com-deviceinfoendpoint-v1-20160924131627-java-1.21.0.jar.properties", 
+      "path": "wgappbackend.com-deviceinfoendpoint-v1-20160925172623-java-1.21.0.jar.properties", 
       "type": "android.properties"
     }
   ], 
@@ -674,5 +674,5 @@
   "version": "v1", 
   "language_version": "1.21.0", 
   "id": "deviceinfoendpoint:v1", 
-  "revision": 20160924131627
+  "revision": 20160925172623
 }
