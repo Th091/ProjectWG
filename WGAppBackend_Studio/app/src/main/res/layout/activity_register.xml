@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    android:gravity="center_vertical|center_horizontal|center"
+    android:orientation="vertical" >
+
+  <Button
+      android:text="Join Commune"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/buttonJoinCommune" />
+
+  <Button
+      android:text="Create Commune"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/buttonCreateCommune" />
+
+  <TextView
+      android:id="@+id/msgView"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="1.06" />
+    	
+  <Button
+      android:id="@+id/regButton"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="0"
+      android:text="Register" />
+
+</LinearLayout>
